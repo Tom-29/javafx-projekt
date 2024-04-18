@@ -1,0 +1,26 @@
+{
+  "criterion": {
+    "price": {
+      "weight": 1,
+      "type": "numerical"
+    },
+    "manufacture": {
+      "weight": null,
+      "type": "note"
+    },
+    "Look and Feel": {
+      "weight": 2,
+      "type": "ordinal"
+    }
+  },
+  "iPhone 15": {
+    "price": 1000,
+    "manufacture": "Apple",
+    "Look and Feel": "Very Good"
+  },
+  "iPhone 14": {
+    "price": 800,
+    "manufacture": "Apple",
+    "Look and Feel": "Good"
+  }
+}
